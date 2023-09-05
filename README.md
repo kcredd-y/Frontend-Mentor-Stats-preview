@@ -26,8 +26,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [CLICK HERE](https://github.com/kcredd-y/Frontend-Mentor-Stats-preview)
-- Live Site URL: [Add live site URL here](https://kcredd-y.github.io/Frontend-Mentor-Stats-preview/)
+- Solution URL: [https://github.com/kcredd-y/Frontend-Mentor-Stats-preview]
+- Live Site URL: [https://kcredd-y.github.io/Frontend-Mentor-Stats-preview/]
 
 ## My process
 
